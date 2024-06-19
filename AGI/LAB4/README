@@ -1,0 +1,8 @@
+  Un program In Python care sa determine un punct de pe o curba Bezier 
+de grad oarecare, folosind algoritmul lui de Casteljau, precum si derivata sa de ordinul
+Intai In acelasi punct, utilizand, de asemenea, algoritmul lui de Casteljau pentru derivata.
+  Datele de intrare vor fi:
+• gradul curbei;
+• punctele de control (din spatiu!);
+• un t0 ∈ [0,1],
+iar datele de iesire r(t0) si r′(t0). 
