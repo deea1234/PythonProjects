@@ -1,0 +1,9 @@
+  Un program Python care sa determine un punct de pe o suprafata
+Bezier cubica extrudata, folosind algoritmul lui de Casteljau iterat sau cel direct.
+  Datele de intrare vor fi:
+• cele patru puncte de control ale curbei Bezier initiale (din spatiu); 
+• un numar δ > 0;
+• un versor 3D v;
+• o pereche de numere reale (u0, v0), ambele din intervalul [0,1],
+iar rezultatul trebuie sa fie  r(u0, v0).
+  Datele de intrare pot fi date printr-un fisier.
