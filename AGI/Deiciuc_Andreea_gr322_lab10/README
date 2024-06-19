@@ -1,0 +1,11 @@
+Un program Python care sa determine un punct de pe o suprafat¸ ˘ a˘
+Bezier cubic ´ a extrudat ˘ a, folosind algoritmul lui de Casteljau iterat sau cel direct. Datele ˘
+de intrare vor fi:
+• cele patru puncte de control ale curbei Bezier init¸iale (din spat¸iu); ´
+• un numar˘ δ > 0;
+• un versor 3D v;
+• o pereche de numere reale (u0, v0), ambele din intervalul [0,1],
+iar rezultatul trebuie sa fie ˘ r(u0, v0). Datele de intrare pot fi date printr-un fis,
+ier. ˆIn acest
+caz, atas, at,
+i un fis¸ier model.
