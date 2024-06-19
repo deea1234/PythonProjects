@@ -1,0 +1,9 @@
+  Un program Python care sa determine un punct de pe o curba Bezier
+cubica rationala, in plan, folosind algoritmul lui de Casteljau rational. 
+  Datele de intrare vor fi:
+• cele 4 puncte de control;
+• cele 4 ponderi;
+• un t ∈ [0,1],
+iar rezultatul trebuie sa fie  r(t).
+  Datele de intrare trebuie sa poata fi introduse interactiv sau prin intermediul unui fisier
+de date.
